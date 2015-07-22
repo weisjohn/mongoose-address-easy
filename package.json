@@ -1,0 +1,24 @@
+{
+  "name": "mongoose-address",
+  "version": "1.0.0",
+  "description": "add address fields to a schema",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/weisjohn/mongoose-address.git"
+  },
+  "keywords": [
+    "mongoose",
+    "address",
+    "plugin"
+  ],
+  "author": "John Weis <weis.john@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/weisjohn/mongoose-address/issues"
+  },
+  "homepage": "https://github.com/weisjohn/mongoose-address#readme"
+}
