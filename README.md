@@ -13,3 +13,18 @@ var schema = new mongoose.Schema({ name: String });
 
 mae(schema);
 ```
+
+plugin style:
+
+```javascript
+schema.plugin(mae);
+```
+
+
+### options
+
+To mark all fields as required (except `address_line2`), use:
+
+```javascript
+schema.plugin(mae, { required: true });
+```
